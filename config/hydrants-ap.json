@@ -5,7 +5,7 @@
         "eap": "ICEG-Hydrants-AP-v14.eap",
         "diagram": "ICEG-Hydrants-AP",
         "template": "hydrant.j2",
-        "title": "Hydrant",
+        "title": "Application Profile Hydrants",
         "publication-state": "Under public review",
         "publication-date": "2026-06-18",
         "license": "https://creativecommons.org/licenses/by/4.0/",
